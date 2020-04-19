@@ -14,9 +14,9 @@ __Clone Repository__
 
 __Install Composer Project__
 
-``cd firman-cms-techtask-php
+`cd firman-cms-techtask-php`
 
-composer install``
+`composer install`
 
 - Given that I have made a request to the `/lunch` endpoint I should receive a `JSON` response of the recipes 
 that I can prepare based on the availability of ingredients in my fridge.
