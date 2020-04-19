@@ -2,8 +2,9 @@
 Suggested recipes for lunch API
 
 
-## User Story
-As a User I would like to make a request to an API that will determine from a set of recipes what I can have for lunch today based on the contents of my fridge, so that I quickly decide what I’ll be having.
+## Requirement document
+
+https://github.com/loadsmileau/php-tech-task
 
 __Acceptance Criteria__
 - Given that I have made a request to the `/lunch` endpoint I should receive a `JSON` response of the recipes 
