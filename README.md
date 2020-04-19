@@ -6,6 +6,7 @@ Suggested recipes for lunch API
 
 https://github.com/loadsmileau/php-tech-task
 
+## How to Deploy
 __Acceptance Criteria__
 - Given that I have made a request to the `/lunch` endpoint I should receive a `JSON` response of the recipes 
 that I can prepare based on the availability of ingredients in my fridge.
