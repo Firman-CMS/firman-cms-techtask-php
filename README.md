@@ -29,3 +29,7 @@ __Executed API__
 
 note :
 `{date params}` format must be 'Y-m-d' (ex: 2019-03-05)
+
+__Unit Test__
+
+`php bin/phpunit tests/App/Controller/LunchTest.php`
