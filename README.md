@@ -18,3 +18,6 @@ __Install Composer Project__
 
 `composer install`
 
+__Run Symfony Server__
+
+`php bin/console server:run`
