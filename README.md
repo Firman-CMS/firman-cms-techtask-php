@@ -7,7 +7,9 @@ Suggested recipes for lunch API
 https://github.com/loadsmileau/php-tech-task
 
 ## How to Deploy
-__Acceptance Criteria__
+__Clone Repository__
+`git clone https://github.com/Firman-CMS/firman-cms-techtask-php.git`
+Clone this Repository
 - Given that I have made a request to the `/lunch` endpoint I should receive a `JSON` response of the recipes 
 that I can prepare based on the availability of ingredients in my fridge.
 - Given that an ingredient is past its `use-by` date (inclusive), I should not receive recipes containing this ingredient.
