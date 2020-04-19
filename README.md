@@ -15,6 +15,7 @@ __Clone Repository__
 __Install Composer Project__
 
 ``cd firman-cms-techtask-php
+
 composer install``
 
 - Given that I have made a request to the `/lunch` endpoint I should receive a `JSON` response of the recipes 
