@@ -8,6 +8,7 @@ https://github.com/loadsmileau/php-tech-task
 
 ## How to Deploy
 __Clone Repository__
+
 `git clone https://github.com/Firman-CMS/firman-cms-techtask-php.git`
 Clone this Repository
 - Given that I have made a request to the `/lunch` endpoint I should receive a `JSON` response of the recipes 
